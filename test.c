@@ -2,5 +2,5 @@
 using namespace std;
 
 void main() {
-	printf("Hello, my name is jinwoo");
+	printf("Hello, your name is minwoo");
 
